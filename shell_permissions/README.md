@@ -1,1 +1,3 @@
-This is the shell permisiion reademe file
+**Stuff for ALX**
+Is the readme empty?
+I think not.

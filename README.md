@@ -1,1 +1,3 @@
-This is a simple shell permission project
+**Stuff for ALX**
+Is the readme empty?
+I think not.
